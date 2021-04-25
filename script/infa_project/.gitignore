@@ -2,4 +2,4 @@
 *
 # Except this file
 !.gitignore
-!/server-test.ru.sh
+!/server-test.ru.txt
